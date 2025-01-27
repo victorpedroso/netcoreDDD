@@ -1,6 +1,0 @@
-@TechSolutions.UsersAPI_HostAddress = https://localhost:44377
-
-GET {{TechSolutions.UsersAPI_HostAddress}}/api/account/me-info
-Accept: application/json
-
-###
