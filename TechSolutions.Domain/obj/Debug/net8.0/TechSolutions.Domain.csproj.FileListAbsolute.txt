@@ -1,0 +1,11 @@
+C:\Users\VictorPedroso\Desktop\dev\Backend\TechSolutions\TechSolutions\TechSolutions.Domain\bin\Debug\net8.0\TechSolutions.Domain.deps.json
+C:\Users\VictorPedroso\Desktop\dev\Backend\TechSolutions\TechSolutions\TechSolutions.Domain\bin\Debug\net8.0\TechSolutions.Domain.dll
+C:\Users\VictorPedroso\Desktop\dev\Backend\TechSolutions\TechSolutions\TechSolutions.Domain\bin\Debug\net8.0\TechSolutions.Domain.pdb
+C:\Users\VictorPedroso\Desktop\dev\Backend\TechSolutions\TechSolutions\TechSolutions.Domain\obj\Debug\net8.0\TechSolutions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictorPedroso\Desktop\dev\Backend\TechSolutions\TechSolutions\TechSolutions.Domain\obj\Debug\net8.0\TechSolutions.Domain.AssemblyInfoInputs.cache
+C:\Users\VictorPedroso\Desktop\dev\Backend\TechSolutions\TechSolutions\TechSolutions.Domain\obj\Debug\net8.0\TechSolutions.Domain.AssemblyInfo.cs
+C:\Users\VictorPedroso\Desktop\dev\Backend\TechSolutions\TechSolutions\TechSolutions.Domain\obj\Debug\net8.0\TechSolutions.Domain.csproj.CoreCompileInputs.cache
+C:\Users\VictorPedroso\Desktop\dev\Backend\TechSolutions\TechSolutions\TechSolutions.Domain\obj\Debug\net8.0\TechSolutions.Domain.dll
+C:\Users\VictorPedroso\Desktop\dev\Backend\TechSolutions\TechSolutions\TechSolutions.Domain\obj\Debug\net8.0\refint\TechSolutions.Domain.dll
+C:\Users\VictorPedroso\Desktop\dev\Backend\TechSolutions\TechSolutions\TechSolutions.Domain\obj\Debug\net8.0\TechSolutions.Domain.pdb
+C:\Users\VictorPedroso\Desktop\dev\Backend\TechSolutions\TechSolutions\TechSolutions.Domain\obj\Debug\net8.0\ref\TechSolutions.Domain.dll

@@ -1,0 +1,6 @@
+@TechSolutions.StoreAPI_HostAddress = http://localhost:5017
+
+GET {{TechSolutions.StoreAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
